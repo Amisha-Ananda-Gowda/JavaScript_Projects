@@ -218,6 +218,6 @@
       box-shadow: 0 0 5px #390d2b;
     }
   }
-  input[type="submit"]:active{
+  input[type="submit"]:active {
     animation: glowing 1300ms 1;
   }
