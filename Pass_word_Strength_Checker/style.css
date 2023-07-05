@@ -12,6 +12,7 @@
 }
 body{
     background:linear-gradient(to bottom left,rgb(236, 78, 236),rgb(70, 214, 222));
+    background-image: url(./images/bg111.gif);
 }
 .container{
     height: 100vh;
