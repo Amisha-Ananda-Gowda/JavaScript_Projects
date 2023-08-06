@@ -13,6 +13,7 @@ body{
 }
 
 .container{
+    
     max-width: 500px;
     margin: 200px auto;
     background-color: #f2f2f2;
