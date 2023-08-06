@@ -6,7 +6,9 @@
 
 body{
     font-family: Arial, sans-serif;
-    background: linear-gradient(to right,#bd0cba,#16b548);
+    background-image:url(internet.jpg);
+    background-repeat: no-repeat;
+    fi
 }
 
 .container{
